@@ -1,3 +1,2 @@
 #### Recent interests
-- (WIP) Personal ML/ DL Project
-- philosophy
+- (WIP) Studying ML/ DL
